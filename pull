@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# ******************************************************
+# Author       : kaleo
+# Last modified: 2017-02-15 20:18
+# Email        : kaleo1990@hotmail.com
+# Filename     : pull
+# Description  : 
+# ******************************************************
+git pull
